@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/TV_Judul_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:gravity="center"
+        android:text="@string/TV_Judul_IDXML"
+        android:textSize="15sp"
+        android:textColor="@color/colorPrimary"/>
+
+    <Button
+        android:id="@+id/B_SimpleToast_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonClick"
+        android:text="@string/B_SimpleToast_IDXML" />
+
+    <Button
+        android:id="@+id/B_TopToast_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonClick"
+        android:text="@string/B_TopToast_IDXML" />
+
+    <Button
+        android:id="@+id/B_BottomToast_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonClick"
+        android:text="@string/B_BottomToast_IDXML" />
+
+    <Button
+        android:id="@+id/B_CenterToast_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonClick"
+        android:text="@string/B_CenterToast_IDXML" />
+
+    <Button
+        android:id="@+id/B_LeftToast_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonClick"
+        android:text="@string/B_LeftToast_IDXML" />
+
+    <Button
+        android:id="@+id/B_RightToast_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonClick"
+        android:text="@string/B_RightToast_IDXML" />
+
+    <Button
+        android:id="@+id/B_TopLeftToast_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonClick"
+        android:text="@string/B_TopLeftToast_IDXML" />
+
+    <Button
+        android:id="@+id/B_TopRightToast_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonClick"
+        android:text="@string/B_TopRightToast_IDXML" />
+
+    <Button
+        android:id="@+id/B_BottomLeftToast_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonClick"
+        android:text="@string/B_BottomLeftToast_IDXML" />
+
+    <Button
+        android:id="@+id/B_BottomRightToast_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonClick"
+        android:text="@string/B_BottomRightToast_IDXML" />
+
+
+</LinearLayout>

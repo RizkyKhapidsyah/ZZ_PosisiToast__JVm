@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZZ_PosisiToast__JVm</string>
+    <string name="B_SimpleToast_IDXML">Simple Toast</string>
+    <string name="B_TopToast_IDXML">Top Toast</string>
+    <string name="B_BottomToast_IDXML">Bottom Toast</string>
+    <string name="B_CenterToast_IDXML">Center Toast</string>
+    <string name="B_LeftToast_IDXML">Left Toast</string>
+    <string name="B_RightToast_IDXML">Right Toast</string>
+    <string name="B_TopLeftToast_IDXML">Top Left Toast</string>
+    <string name="B_TopRightToast_IDXML">Top Right Toast</string>
+    <string name="B_BottomLeftToast_IDXML">Bottom Left Toast</string>
+    <string name="B_BottomRightToast_IDXML">Bottom Right Toast</string>
+    <string name="TV_Judul_IDXML">Klik Untuk Melihat Contoh :</string>
+</resources>
